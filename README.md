@@ -1,3 +1,4 @@
+# Editor Utility Extension Plugin 
 # Customizing the Unreal Editor
 All the editor customization features in the plugin are managed by the ToolMenus extension, the primary module for creating custom toolbars and menus in the Unreal Editor.
 
