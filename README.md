@@ -1,7 +1,7 @@
-# Customizing Editor
-Any features regarding the editor customization are tied to the ToolMenus extension, the main module that is defined for designing custom toolbars and menus in the Unreal Editor. 
+# Customizing the Unreal Editor
+All the editor customization features in the plugin are managed by the ToolMenus extension, the primary module for creating custom toolbars and menus in the Unreal Editor.
 
-you can access to all the Toolmenus handlers by running a console command that is already added on the plugin settings for convenience.
+You can access all the Toolmenus handlers by running a console command, which is already added in the plugin settings for convenience.
 
 ```Toolmenus.Edit``` By running this command, you will access all the toolmenu handlers 
 
@@ -13,7 +13,7 @@ Add a custom button to the toolbar that will invoke an Editor Tab, displaying an
 
 - Add a button element to the Custom Toolbar Button Array
   - Use Custom Toolbar Owner
-    - By default, a new toolbar menu will be added to the main editor toolbar, if you want to add a custom toolbar button to another toolbar like the Sequencer toolbar, you need to enable this option and enter the toolbar owner handler that you found from ToolMenus command.
+    - By default, a new toolbar menu will be added to the main editor toolbar. If you want to add a custom toolbar button to another toolbar, such as the Sequencer toolbar, you need to enable this option and enter the toolbar owner handler that you found using the ToolMenus command.
     - Toolbar Owner
       - Toolbar Handler (e.g. ```LevelEditor.LevelEditorToolbar.User```)
     - Section Name
