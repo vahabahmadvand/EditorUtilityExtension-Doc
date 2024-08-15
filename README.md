@@ -8,6 +8,18 @@ You can access all the Toolmenus handlers by running a console command, which is
 
 ![Settings](Docs/Settings.png)
 
+## Features Overview
+- Custom Toolbar Button to Invoke a New Editor Tab from an Editor Utility Widget
+  - Ability to Call the Run Function from an Editor Utility Blueprint (AssetAction or ActorAction)
+- Custom Menu in the Main Menu
+  - Add a custom menu entry to any menu, This menu can provide shortcuts to tools, utilities, and other features (e.g. Actor Context Menu, Asset Context Menu, Place Actor and so on)
+- Class Icon and Thumbnails
+  - Assign custom icons or thumbnails to classes, improving the visual representation of assets in the content browser.
+  - Assign custom thumbnails for Blueprints and DataAssets by Calling an Interface
+- Custom UMG Controls for Editor Utility Widgets
+  - Splitter
+  - Editor Tab Control
+
 # Add Custom Toolbar Button
 
 Add a custom button to the toolbar that will invoke an Editor Tab, displaying an Editor Utility Widget (EUW). This allows custom widgets to appear in the editor, extending functionality directly within the editor's interface.
