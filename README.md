@@ -42,6 +42,14 @@ Add a custom button to the toolbar that will invoke an Editor Tab, displaying an
 
 ![Add custom toolbar button - Custom Handler](Docs/AddCustomToolbar-2.png)
 
+### New Feature in Toolbar Button Ver1.1
+- Toolbar COmbo Button: you can us any Editor Widget Utility as a menu content for combo button on any toolbar.
+  
+![Toolbar Button Type](Docs/ToolbarButtonType.png)
+
+![ComboMenu](Docs/AddMenuComboBox.png)
+
+
 # Add Custom Menu
 
 Add a new custom menu to Unreal Engine's main menu. This menu can provide shortcuts to tools, utilities, or other features of the plugin.
