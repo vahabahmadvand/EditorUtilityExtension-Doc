@@ -85,6 +85,21 @@ Adding a custom option to the Add Quick Menu
  ![alt text](Docs/AddQuickMenu-2.png)
  ![alt text](Docs/AddQuickMenu-3.png)
 
+
+# Add a new custom category in the **Place Actors** Panel
+
+The latest version of the plugin has a feature which give a opportunity to add a custom category to the Place Actors panel for whos wants to have a curated list of actors to place into the map.
+
+![alt text](Docs/PlaceActorSettings.png)
+
+In Unreal before 5.6
+
+![alt text](Docs/CustomCategoryInPlaceActor.png)
+
+In Unreal 5.6
+
+![alt text](Docs/CustomPlaceActorcategory56.png)
+
 # Custom Class Icon & Thumbnails
 
 Assign custom icons or thumbnails to classes, improving the visual representation of assets in the content browser.
