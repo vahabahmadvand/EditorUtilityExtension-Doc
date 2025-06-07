@@ -43,7 +43,7 @@ Add a custom button to the toolbar that will invoke an Editor Tab, displaying an
 ![Add custom toolbar button - Custom Handler](Docs/AddCustomToolbar-2.png)
 
 ### New Feature in Toolbar Button Ver1.1
-- Toolbar COmbo Button: you can us any Editor Widget Utility as a menu content for combo button on any toolbar.
+- Toolbar Combo Button: You can use any Editor Widget Utility as menu content for a combo button on any toolbar.
   
 ![Toolbar Button Type](Docs/ToolbarButtonType.png)
 
@@ -88,7 +88,7 @@ Adding a custom option to the Add Quick Menu
 
 # Add a new custom category in the **Place Actors** Panel
 
-The latest version of the plugin has a feature which give a opportunity to add a custom category to the Place Actors panel for whos wants to have a curated list of actors to place into the map.
+The latest version of the plugin includes a feature that allows users to add a custom category to the Place Actors panel for those who want to create a curated list of actors to place on the map.
 
 ![alt text](Docs/PlaceActorSettings.png)
 
